@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cezar398
-- 👀 I’m interested in Software Development(Python, C/C++, x86) and Web(JavaScript, PHP)
+- 👀 I’m interested in Software Development(Python, C/C++, x86) and Web(PHP, Python)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me catarau.ci@gmail.com
