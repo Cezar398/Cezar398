@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cezar398
 - 👀 I’m interested in Software Development(Python, C/C++, x86) and Web(PHP, Python)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on C/C++
 - 📫 How to reach me catarau.ci@gmail.com
 - Website: https://cezar398.github.io/
 
